@@ -1,0 +1,16 @@
+@media print {
+    .sidebar-menu {
+        display: none;
+    }
+
+    .btn.btn-lg.btn-info.btn-block {
+        display: none;
+    }
+    #LB1{
+        display: none;
+    }
+    #LB2{
+        display: none;
+    }
+
+}
